@@ -22,8 +22,8 @@
 </div>
 
 ## Contato:
-- 📧 E-mail : [jefferson_nascimento07@outlook.com] <br/>
+- 📧 E-mail : jefferson_nascimento07@outlook.com <br/>
 - 🌐 LinkedIn : [Perfil do LinkedIn](https://www.linkedin.com/in/jefferson-souza-6a465a223/)<br/>
-- 👨🏾‍💻 GitHub : [jefferson0710] (https://github.com/jefferson0710)
+- 👨🏾‍💻 GitHub : [jefferson0710](https://github.com/jefferson0710)
 
 </div>
