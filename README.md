@@ -20,8 +20,10 @@
             <img  alt="html5" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
               <img  alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
+
+## Contato:
+- 📧 E-mail : [jefferson_nascimento07@outlook.com] <br/>
+- 🌐 LinkedIn : [Perfil do LinkedIn](https://www.linkedin.com/in/jefferson-souza-6a465a223/)<br/>
+- 👨🏾‍💻 GitHub : [jefferson0710] (https://github.com/jefferson0710)
+
 </div>
-## Contato 
-- 📧 E-mail : jefferson_nascimento07@outlook.com    
-- 🌐 LinkedIn : - [Perfil do LinkedIn](https://www.linkedin.com/in/jefferson-souza-6a465a223/)<br/>
-- 👨🏾‍💻 GitHub : Julio0Cesar
