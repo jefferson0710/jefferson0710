@@ -20,9 +20,9 @@
 
 ## 🚀 Sobre Mim
 
-Sou um **Desenvolvedor Full Stack** com foco em aplicações web modernas, responsivas e escaláveis.
+Sou um **Desenvolvedor Full Stack** com foco em aplicações web modernas e responsivas.
 
-Tenho experiência com **Angular, TypeScript, Node.js, AdonisJS, Supabase e bancos de dados relacionais**, desenvolvendo interfaces, APIs e integrações.
+Tenho experiência com **Angular, React, TypeScript, Node.js, AdonisJS, Supabase e bancos de dados relacionais**, desenvolvendo interfaces, APIs e integrações.
 
 Também possuo vivência com **infraestrutura, monitoramento e suporte a ambientes críticos**, utilizando ferramentas como **Linux, Zabbix e Grafana**.
 
@@ -99,16 +99,6 @@ Combino conhecimentos de **desenvolvimento, suporte e observabilidade** para con
 - Facilidade para atuar entre desenvolvimento e operação
 - Experiência com projetos acadêmicos aplicados a problemas reais
 
----
-
-## 📊 GitHub Analytics
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jefferson0710&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jefferson0710&theme=github_dark)
-
-![](https://streak-stats.demolab.com?user=jefferson0710&theme=dark)
----
 
 ## 📫 Contato
 
